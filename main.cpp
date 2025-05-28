@@ -1,6 +1,4 @@
-//Itsko Andrii K-16
 //var 6
-
 #include <iostream>
 #include <fstream>
 #include <map>
